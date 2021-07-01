@@ -8,6 +8,15 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+    <main>
+<div>
+    <h1>
+        Hola
+    </h1>
+    <p>Este es un contenido predeterminado</p>
+</div>
+
+    </main>
     
 </body>
 </html>
