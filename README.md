@@ -2,10 +2,10 @@
 Blog de aprendizaje Git GitHub
 
 
-##Subtítulo
+## Subtítulo
 
-###Sub subtítulo
+### Sub subtítulo
 asjdfhasdjk
 
--hola
--hola2
+- hola
+- hola2
