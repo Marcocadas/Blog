@@ -10,7 +10,22 @@
 <body>
     <main>
 <div>
-    <h1>
+<h1>
+        Hola
+    </h1>
+    <p>Este es un contenido predeterminado</p>
+</div>
+<h1>
+        Hola
+    </h1>
+    <p>Este es un contenido predeterminado</p>
+</div>
+<h1>
+        Hola
+    </h1>
+    <p>Este es un contenido predeterminado</p>
+</div>
+<h1>
         Hola
     </h1>
     <p>Este es un contenido predeterminado</p>
